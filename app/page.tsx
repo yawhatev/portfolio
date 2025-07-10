@@ -62,18 +62,18 @@ export default function Portfolio() {
       {/* Enhanced animated background elements - Black & White */}
       <div className="fixed inset-0 overflow-hidden pointer-events-none">
         {/* Floating particles - monochrome */}
-        <div className="absolute top-20 left-10 w-2 h-2 bg-gray-800 rounded-full animate-bounce opacity-40" style={{animationDelay: '0s', animationDuration: '3s'}}></div>
-        <div className="absolute top-40 right-20 w-3 h-3 bg-gray-700 rounded-full animate-bounce opacity-50" style={{animationDelay: '1s', animationDuration: '4s'}}></div>
-        <div className="absolute top-60 left-1/4 w-1.5 h-1.5 bg-gray-600 rounded-full animate-bounce opacity-40" style={{animationDelay: '2s', animationDuration: '5s'}}></div>
-        <div className="absolute bottom-40 right-1/3 w-2.5 h-2.5 bg-gray-500 rounded-full animate-bounce opacity-50" style={{animationDelay: '0.5s', animationDuration: '3.5s'}}></div>
-        <div className="absolute bottom-60 left-20 w-2 h-2 bg-gray-800 rounded-full animate-bounce opacity-40" style={{animationDelay: '1.5s', animationDuration: '4.5s'}}></div>
-        <div className="absolute top-1/3 right-1/4 w-1 h-1 bg-gray-900 rounded-full animate-bounce opacity-30" style={{animationDelay: '0.8s', animationDuration: '4.2s'}}></div>
+        <div className="absolute top-20 left-10 w-2 h-2 bg-gray-800 rounded-full animate-bounce opacity-40" style={{animationDelay: "0s", animationDuration: "3s"}}></div>
+        <div className="absolute top-40 right-20 w-3 h-3 bg-gray-700 rounded-full animate-bounce opacity-50" style={{animationDelay: "1s", animationDuration: "4s"}}></div>
+        <div className="absolute top-60 left-1/4 w-1.5 h-1.5 bg-gray-600 rounded-full animate-bounce opacity-40" style={{animationDelay: "2s", animationDuration: "5s"}}></div>
+        <div className="absolute bottom-40 right-1/3 w-2.5 h-2.5 bg-gray-500 rounded-full animate-bounce opacity-50" style={{animationDelay: "0.5s", animationDuration: "3.5s"}}></div>
+        <div className="absolute bottom-60 left-20 w-2 h-2 bg-gray-800 rounded-full animate-bounce opacity-40" style={{animationDelay: "1.5s", animationDuration: "4.5s"}}></div>
+        <div className="absolute top-1/3 right-1/4 w-1 h-1 bg-gray-900 rounded-full animate-bounce opacity-30" style={{animationDelay: "0.8s", animationDuration: "4.2s"}}></div>
         
         {/* Gradient orbs - monochrome */}
         <div className="absolute -top-1/2 -left-1/2 w-full h-full bg-gradient-to-br from-gray-300/10 via-gray-400/10 to-gray-500/10 rounded-full blur-3xl animate-pulse"></div>
-        <div className="absolute -bottom-1/2 -right-1/2 w-full h-full bg-gradient-to-tl from-gray-200/10 via-gray-300/10 to-gray-400/10 rounded-full blur-3xl animate-pulse" style={{animationDelay: '2s'}}></div>
-        <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-gradient-to-r from-gray-300/8 to-gray-400/8 rounded-full blur-2xl animate-bounce" style={{animationDuration: '6s'}}></div>
-        <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-gradient-to-r from-gray-400/8 to-gray-500/8 rounded-full blur-2xl animate-pulse" style={{animationDelay: '3s', animationDuration: '7s'}}></div>
+        <div className="absolute -bottom-1/2 -right-1/2 w-full h-full bg-gradient-to-tl from-gray-200/10 via-gray-300/10 to-gray-400/10 rounded-full blur-3xl animate-pulse" style={{animationDelay: "2s"}}></div>
+        <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-gradient-to-r from-gray-300/8 to-gray-400/8 rounded-full blur-2xl animate-bounce" style={{animationDuration: "6s"}}></div>
+        <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-gradient-to-r from-gray-400/8 to-gray-500/8 rounded-full blur-2xl animate-pulse" style={{animationDelay: "3s", animationDuration: "7s"}}></div>
       </div>
       
       {/* Enhanced Header with advanced glassmorphism - Black & White */}
@@ -128,14 +128,14 @@ export default function Portfolio() {
       <section id="about" className="relative py-20 overflow-hidden">
         {/* Advanced Background Decorative Elements - Monochrome */}
         <div className="absolute inset-0 overflow-hidden">
-          <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-gray-400/15 to-gray-600/15 rounded-full blur-3xl animate-pulse" style={{animationDuration: '4s'}}></div>
-          <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-tr from-gray-300/15 to-gray-500/15 rounded-full blur-3xl animate-pulse" style={{animationDuration: '5s', animationDelay: '1s'}}></div>
-          <div className="absolute top-20 left-1/2 w-60 h-60 bg-gradient-to-br from-gray-200/10 to-gray-400/10 rounded-full blur-2xl animate-bounce" style={{animationDuration: '6s'}}></div>
+          <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-gray-400/15 to-gray-600/15 rounded-full blur-3xl animate-pulse" style={{animationDuration: "4s"}}></div>
+          <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-gradient-to-tr from-gray-300/15 to-gray-500/15 rounded-full blur-3xl animate-pulse" style={{animationDuration: "5s", animationDelay: "1s"}}></div>
+          <div className="absolute top-20 left-1/2 w-60 h-60 bg-gradient-to-br from-gray-200/10 to-gray-400/10 rounded-full blur-2xl animate-bounce" style={{animationDuration: "6s"}}></div>
           
           {/* Floating geometric shapes - monochrome */}
-          <div className="absolute top-32 right-1/4 w-4 h-4 bg-gradient-to-r from-gray-700 to-gray-800 rotate-45 animate-bounce opacity-40" style={{animationDelay: '2s'}}></div>
-          <div className="absolute bottom-32 left-1/3 w-3 h-3 bg-gradient-to-r from-gray-600 to-gray-700 rounded-full animate-pulse opacity-40" style={{animationDelay: '1s'}}></div>
-          <div className="absolute top-1/2 right-20 w-2 h-8 bg-gradient-to-b from-gray-500 to-gray-700 animate-bounce opacity-30" style={{animationDelay: '3s'}}></div>
+          <div className="absolute top-32 right-1/4 w-4 h-4 bg-gradient-to-r from-gray-700 to-gray-800 rotate-45 animate-bounce opacity-40" style={{animationDelay: "2s"}}></div>
+          <div className="absolute bottom-32 left-1/3 w-3 h-3 bg-gradient-to-r from-gray-600 to-gray-700 rounded-full animate-pulse opacity-40" style={{animationDelay: "1s"}}></div>
+          <div className="absolute top-1/2 right-20 w-2 h-8 bg-gradient-to-b from-gray-500 to-gray-700 animate-bounce opacity-30" style={{animationDelay: "3s"}}></div>
         </div>
 
         <div className="container mx-auto px-4 relative z-10">
@@ -146,8 +146,8 @@ export default function Portfolio() {
                 <div className="relative group">
                   {/* Multiple decorative rings with different animations - Monochrome */}
                   <div className="absolute -inset-6 bg-gradient-to-r from-gray-600 via-gray-700 to-gray-800 rounded-full opacity-15 blur-xl animate-pulse group-hover:opacity-25 transition-opacity duration-500"></div>
-                  <div className="absolute -inset-4 bg-gradient-to-r from-gray-500 via-gray-600 to-gray-700 rounded-full opacity-20 blur-lg animate-ping" style={{animationDuration: '3s'}}></div>
-                  <div className="absolute -inset-2 bg-gradient-to-r from-gray-400 to-gray-600 rounded-full opacity-25 blur-md animate-pulse" style={{animationDuration: '2s'}}></div>
+                  <div className="absolute -inset-4 bg-gradient-to-r from-gray-500 via-gray-600 to-gray-700 rounded-full opacity-20 blur-lg animate-ping" style={{animationDuration: "3s"}}></div>
+                  <div className="absolute -inset-2 bg-gradient-to-r from-gray-400 to-gray-600 rounded-full opacity-25 blur-md animate-pulse" style={{animationDuration: "2s"}}></div>
 
                   {/* Main profile picture with enhanced 3D effect */}
                   <div className="relative w-96 h-96 rounded-full overflow-hidden shadow-2xl border-4 border-white/60 backdrop-blur-sm transform transition-all duration-500 hover:scale-105 hover:rotate-2 hover:shadow-3xl group-hover:border-white/80"
@@ -169,7 +169,7 @@ export default function Portfolio() {
 
                   {/* Enhanced floating badges with animations - Monochrome */}
                   <div className="absolute -top-2 -right-2 bg-gradient-to-r from-gray-700 to-gray-800 text-white px-3 py-1 rounded-full text-sm font-semibold shadow-lg animate-bounce hover:scale-110 transition-transform duration-300"
-                       style={{animationDuration: '2s'}}>
+                       style={{animationDuration: "2s"}}>
                     <span className="flex items-center gap-1">
                       <div className="w-2 h-2 bg-white rounded-full animate-ping"></div>
                       Available
@@ -181,8 +181,8 @@ export default function Portfolio() {
                   </div>
                   
                   {/* Additional floating elements - Monochrome */}
-                  <div className="absolute top-1/4 -left-8 w-3 h-3 bg-gradient-to-r from-gray-600 to-gray-700 rounded-full animate-bounce opacity-50" style={{animationDelay: '1s'}}></div>
-                  <div className="absolute bottom-1/3 -right-6 w-2 h-2 bg-gradient-to-r from-gray-700 to-gray-800 rounded-full animate-pulse opacity-40" style={{animationDelay: '2s'}}></div>
+                  <div className="absolute top-1/4 -left-8 w-3 h-3 bg-gradient-to-r from-gray-600 to-gray-700 rounded-full animate-bounce opacity-50" style={{animationDelay: "1s"}}></div>
+                  <div className="absolute bottom-1/3 -right-6 w-2 h-2 bg-gradient-to-r from-gray-700 to-gray-800 rounded-full animate-pulse opacity-40" style={{animationDelay: "2s"}}></div>
                 </div>
               </div>
 
@@ -196,7 +196,7 @@ export default function Portfolio() {
                   </div>
 
                   <h1 className="text-5xl lg:text-6xl font-bold leading-tight">
-                    <span className="text-gray-700 block">Hi, I'm</span>
+                    <span className="text-gray-700 block">Hi, I&apos;m</span>
                     <span className="bg-gradient-to-r from-gray-900 via-black to-gray-800 bg-clip-text text-transparent block hover:scale-105 transition-transform duration-500 cursor-default">
                       Resima Budhathoki
                     </span>
@@ -290,7 +290,7 @@ export default function Portfolio() {
       <section id="skills" className="py-20 bg-gradient-to-br from-white/80 via-gray-50/40 to-gray-100/40 backdrop-blur-sm relative overflow-hidden">
         {/* Floating background elements - Monochrome */}
         <div className="absolute top-10 left-10 w-20 h-20 bg-gradient-to-r from-gray-400/15 to-gray-500/15 rounded-full blur-xl animate-pulse"></div>
-        <div className="absolute bottom-10 right-10 w-32 h-32 bg-gradient-to-r from-gray-300/15 to-gray-400/15 rounded-full blur-xl animate-bounce" style={{animationDuration: '4s'}}></div>
+        <div className="absolute bottom-10 right-10 w-32 h-32 bg-gradient-to-r from-gray-300/15 to-gray-400/15 rounded-full blur-xl animate-bounce" style={{animationDuration: "4s"}}></div>
         
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-16">
@@ -362,7 +362,7 @@ export default function Portfolio() {
       <section id="projects" className="py-20 relative overflow-hidden">
         {/* Background decorative elements - Monochrome */}
         <div className="absolute top-20 right-10 w-24 h-24 bg-gradient-to-r from-gray-400/15 to-gray-500/15 rounded-full blur-xl animate-pulse"></div>
-        <div className="absolute bottom-20 left-10 w-32 h-32 bg-gradient-to-r from-gray-300/15 to-gray-400/15 rounded-full blur-xl animate-bounce" style={{animationDuration: '5s'}}></div>
+        <div className="absolute bottom-20 left-10 w-32 h-32 bg-gradient-to-r from-gray-300/15 to-gray-400/15 rounded-full blur-xl animate-bounce" style={{animationDuration: "5s"}}></div>
         
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-16">
@@ -489,7 +489,7 @@ export default function Portfolio() {
       <section id="achievements" className="py-20 bg-gradient-to-br from-white/80 via-gray-50/40 to-gray-100/40 backdrop-blur-sm relative overflow-hidden">
         {/* Background decorative elements - Monochrome */}
         <div className="absolute top-10 right-10 w-20 h-20 bg-gradient-to-r from-gray-400/15 to-gray-500/15 rounded-full blur-xl animate-pulse"></div>
-        <div className="absolute bottom-10 left-10 w-28 h-28 bg-gradient-to-r from-gray-300/15 to-gray-400/15 rounded-full blur-xl animate-bounce" style={{animationDuration: '4s'}}></div>
+        <div className="absolute bottom-10 left-10 w-28 h-28 bg-gradient-to-r from-gray-300/15 to-gray-400/15 rounded-full blur-xl animate-bounce" style={{animationDuration: "4s"}}></div>
         
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-16">
@@ -539,14 +539,14 @@ export default function Portfolio() {
       <section id="contact" className="py-20 relative overflow-hidden">
         {/* Background decorative elements - Monochrome */}
         <div className="absolute top-20 left-10 w-24 h-24 bg-gradient-to-r from-gray-400/20 to-gray-500/20 rounded-full blur-xl animate-pulse"></div>
-        <div className="absolute bottom-20 right-10 w-28 h-28 bg-gradient-to-r from-gray-300/20 to-gray-400/20 rounded-full blur-xl animate-bounce" style={{animationDuration: '5s'}}></div>
+        <div className="absolute bottom-20 right-10 w-28 h-28 bg-gradient-to-r from-gray-300/20 to-gray-400/20 rounded-full blur-xl animate-bounce" style={{animationDuration: "5s"}}></div>
         
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-16">
             <h2 className="text-4xl lg:text-5xl font-bold bg-gradient-to-r from-gray-900 via-black to-gray-800 bg-clip-text text-transparent mb-4 hover:scale-105 transition-transform duration-300 cursor-default">
               Get In Touch
             </h2>
-            <p className="text-xl text-gray-600 hover:text-gray-700 transition-colors duration-300">Let's connect and collaborate on exciting projects</p>
+            <p className="text-xl text-gray-600 hover:text-gray-700 transition-colors duration-300">Let&apos;s connect and collaborate on exciting projects</p>
             <div className="w-24 h-1 bg-gradient-to-r from-gray-800 to-black mx-auto mt-4 rounded-full"></div>
           </div>
 
